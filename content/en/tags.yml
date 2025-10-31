@@ -1,0 +1,137 @@
+tags:
+  - id: 1
+    label: Trade Compliance
+    slug: trade-compliance
+    color: neutral
+    variant: subtle
+    seo:
+      title: Trade Compliance Guide | Global Trade Regulations | YTrade
+      description: Learn about international trade compliance requirements, regulations, and best practices for businesses engaged in global commerce.
+      ogTitle: Trade Compliance Guide
+      ogDescription: Comprehensive guide to international trade compliance, covering regulations, documentation, and best practices for global businesses.
+      ogImage: /images/cover/how-ai-is-transforming-trade-compliance.png
+      twitterCard: summary_large_image
+      twitterSite: "@ytrade_global"
+      twitterTitle: Trade Compliance Guide
+      twitterDescription: Navigate international trade regulations and compliance requirements with our comprehensive guides and best practices.
+      twitterImage: /images/cover/how-ai-is-transforming-trade-compliance.png
+      robots: index,follow
+  - id: 2
+    label: HS Code
+    slug: hs-code
+    color: neutral
+    variant: subtle
+    seo:
+      title: HS Code Lookup & Classification | Customs Data | YTrade
+      description: Understand Harmonized System (HS) codes for international trade, classification guidelines, and customs procedures.
+      ogTitle: HS Code Classification Guide
+      ogDescription: Master the Harmonized System (HS) code classification for international trade with our comprehensive guides and lookup tools.
+      ogImage: /images/cover/hs-code-changes-in-2025.png
+      twitterCard: summary_large_image
+      twitterSite: "@ytrade_global"
+      twitterTitle: HS Code Classification Guide
+      twitterDescription: Learn how to properly classify products using HS codes for seamless customs clearance and trade compliance.
+      twitterImage: /images/cover/hs-code-changes-in-2025.png
+      robots: index,follow
+  - id: 3
+    label: HTS Code
+    slug: hts-code
+    color: neutral
+    variant: subtle
+    seo:
+      title: HTS Code Guide for US Imports | Customs Data | YTrade
+      description: Detailed information on Harmonized Tariff Schedule (HTS) codes for US imports, classification rules, and tariff rates.
+      ogTitle: HTS Code Classification for US Imports
+      ogDescription: Complete guide to Harmonized Tariff Schedule (HTS) codes for US importers, including classification rules and duty rates.
+      ogImage: /images/cover/hs-code-vs-hts-code.png
+      twitterCard: summary_large_image
+      twitterSite: "@ytrade_global"
+      twitterTitle: HTS Code Guide for US Imports
+      twitterDescription: Navigate US import requirements with our comprehensive HTS code classification guide and tariff information.
+      twitterImage: /images/cover/hs-code-vs-hts-code.png
+      robots: index,follow
+  - id: 4
+    label: Sanctions Screening
+    slug: sanctions-screening
+    color: neutral
+    variant: subtle
+    seo:
+      title: Sanctions Screening Best Practices | Trade Compliance | YTrade
+      description: Learn how to implement effective sanctions screening programs, compliance measures, and risk mitigation strategies.
+      ogTitle: Sanctions Screening Best Practices
+      ogDescription: Protect your business with effective sanctions screening programs and compliance measures for international trade.
+      ogImage: /images/cover/sanctions-screening-best-practices-in-2025.png
+      twitterCard: summary_large_image
+      twitterSite: "@ytrade_global"
+      twitterTitle: Sanctions Screening Best Practices
+      twitterDescription: Implement robust sanctions screening programs to ensure trade compliance and mitigate financial crime risks.
+      twitterImage: /images/cover/sanctions-screening-best-practices-in-2025.png
+      robots: index,follow
+  - id: 5
+    label: Global Trade Regulations
+    slug: global-trade-regulations
+    color: neutral
+    variant: subtle
+    seo:
+      title: Global Trade Regulations Overview | International Commerce | YTrade
+      description: Stay updated on changing international trade regulations, policies, and frameworks affecting global commerce.
+      ogTitle: Global Trade Regulations
+      ogDescription: Navigate the complex landscape of international trade regulations with our comprehensive guides and updates.
+      ogImage: /images/cover/understanding-global-trade-regulations-in-2025.png
+      twitterCard: summary_large_image
+      twitterSite: "@ytrade_global"
+      twitterTitle: Global Trade Regulations
+      twitterDescription: Keep up-to-date with evolving international trade regulations and policy changes affecting global commerce.
+      twitterImage: /images/cover/understanding-global-trade-regulations-in-2025.png
+      robots: index,follow
+  - id: 6
+    label: AI in Trade
+    slug: ai-in-trade
+    color: neutral
+    variant: subtle
+    seo:
+      title: AI in International Trade | Trade Technology | YTrade
+      description: Discover how artificial intelligence is transforming trade compliance, customs procedures, and global supply chains.
+      ogTitle: AI Transformation in International Trade
+      ogDescription: Explore how artificial intelligence is revolutionizing trade compliance, customs automation, and supply chain management.
+      ogImage: /images/cover/how-ai-is-transforming-trade-compliance.png
+      twitterCard: summary_large_image
+      twitterSite: "@ytrade_global"
+      twitterTitle: AI in International Trade
+      twitterDescription: Learn how AI technologies are reshaping international trade processes, from compliance to supply chain optimization.
+      twitterImage: /images/cover/how-ai-is-transforming-trade-compliance.png
+      robots: index,follow
+  - id: 7
+    label: Import Export Data
+    slug: import-export-data
+    color: neutral
+    variant: subtle
+    seo:
+      title: Import Export Data Analysis | Trade Statistics | YTrade
+      description: Access and analyze comprehensive import export data, trade statistics, and market intelligence for informed business decisions.
+      ogTitle: Import Export Data Analysis
+      ogDescription: Leverage import export data and trade statistics for market research, competitive analysis, and strategic planning.
+      ogImage: /images/cover/global-trade-data-providers.png
+      twitterCard: summary_large_image
+      twitterSite: "@ytrade_global"
+      twitterTitle: Import Export Data Analysis
+      twitterDescription: Unlock business opportunities with comprehensive import export data analysis and trade intelligence insights.
+      twitterImage: /images/cover/global-trade-data-providers.png
+      robots: index,follow
+  - id: 8
+    label: Commodity Code
+    slug: commodity-code
+    color: neutral
+    variant: subtle
+    seo:
+      title: Commodity Code Classification | Customs Procedures | YTrade
+      description: Understand commodity codes, their classification systems, and importance in international trade and customs procedures.
+      ogTitle: Commodity Code Classification Guide
+      ogDescription: Master commodity code classification for international trade with our comprehensive guides and best practices.
+      ogImage: /images/cover/hs-code-changes-in-2025.png
+      twitterCard: summary_large_image
+      twitterSite: "@ytrade_global"
+      twitterTitle: Commodity Code Classification Guide
+      twitterDescription: Properly classify your products with commodity codes to ensure smooth customs clearance and trade compliance.
+      twitterImage: /images/cover/hs-code-changes-in-2025.png
+      robots: index,follow
